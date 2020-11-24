@@ -1119,6 +1119,18 @@ figcaption {
   transform: scale(1.03);
 }
 
+.media-item.media-4 {
+  background-image: url('../images/orbs.jpg');
+  background-position: 50% 70%;
+  background-size: cover;
+}
+
+.media-item.media-4:hover {
+  -webkit-transform: scale(1.03);
+  -ms-transform: scale(1.03);
+  transform: scale(1.03);
+}
+
 .tag {
   position: relative;
   display: inline-block;
@@ -1680,4 +1692,8 @@ figcaption {
   font-weight: 500;
   font-style: normal;
   font-display: swap;
+}
+
+.extra-space {
+  margin-top: 20px;
 }
