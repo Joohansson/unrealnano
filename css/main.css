@@ -937,6 +937,7 @@ figcaption {
   color: hsla(0, 0%, 100%, 0.15);
   font-size: 270px;
   line-height: 200px;
+  margin-right: 40px;
 }
 
 .s-footer {
@@ -1694,6 +1695,6 @@ figcaption {
   font-display: swap;
 }
 
-.extra-space {
-  margin-top: 20px;
+.extra-space-btn {
+  height: 20px;
 }
